@@ -13,8 +13,8 @@ API REST básica desarrollada con Python y Django. Expone un endpoint `GET /api/
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/TU_USUARIO/hola-django-api.git
-cd hola-django-api
+git clone https://github.com/JeanPiere898/hola_django.git
+cd hola_django
 ```
 
 2. Crear y activar el entorno virtual:
